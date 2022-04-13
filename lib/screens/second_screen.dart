@@ -115,27 +115,27 @@ class OnBoardOne extends StatelessWidget {
           padding: const EdgeInsets.only(left: 46, right: 47, top: 97),
           child: Image.asset("assets/images/logo2.png"),
         ),
-        Container(
-          padding: const EdgeInsets.only(left: 34, top: 15),
-          child: const Text(
-            "Xin Chào!",
-            style: TextStyle(
-                fontSize: 20,
-                color: Color(0xFF231F20),
-                fontFamily: 'Gotham-Medium'),
-          ),
-        ),
-        Container(
-          padding: const EdgeInsets.fromLTRB(34, 19, 35, 0),
-          child: Image.asset("assets/images/img.png"),
-        ),
-        Container(
-          padding: const EdgeInsets.fromLTRB(34, 23, 35, 0),
-          child: const Text(
-            "   eSpot là đơn vị đi đầu trong lĩnh vực cung cấp tiện ích chia sẻ năng lượng, thông qua các trạm sạc pin dự phòng tự động tại Việt Nam.",
-            style: TextStyle(fontSize: 14, color: Color(0xFF231F20)),
-          ),
-        ),
+        // Container(
+        //   padding: const EdgeInsets.only(left: 34, top: 15),
+        //   child: const Text(
+        //     "Xin Chào!",
+        //     style: TextStyle(
+        //         fontSize: 20,
+        //         color: Color(0xFF231F20),
+        //         fontFamily: 'Gotham-Medium'),
+        //   ),
+        // ),
+        // Container(
+        //   padding: const EdgeInsets.fromLTRB(34, 19, 35, 0),
+        //   child: Image.asset("assets/images/img.png"),
+        // ),
+        // Container(
+        //   padding: const EdgeInsets.fromLTRB(34, 23, 35, 0),
+        //   child: const Text(
+        //     "   eSpot là đơn vị đi đầu trong lĩnh vực cung cấp tiện ích chia sẻ năng lượng, thông qua các trạm sạc pin dự phòng tự động tại Việt Nam.",
+        //     style: TextStyle(fontSize: 14, color: Color(0xFF231F20)),
+        //   ),
+        // ),
         Container(
           padding: const EdgeInsets.fromLTRB(36, 10, 33, 0),
           child: const Text(
